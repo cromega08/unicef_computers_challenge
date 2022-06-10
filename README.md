@@ -5,10 +5,8 @@ This is my solution to a [challenge in MisionTIC2022](https://github.com/luisgui
 
 The explanation it's in Spanish, so if' you want to read it, learn this language or translate it.
 
-
 ## Authors
 
 * [@Cromega08](https://github.com/cromega08)
 
 **Note**: Author of the solution, not the challenge itself.
-
